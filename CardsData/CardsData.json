@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "ResturanImage": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ResturantName": "Claro",
+    "ChefName": "Ran Shmueli"
+  },
+  {
+    "ID": 2,
+    "ResturanImage": "https://img.haarets.co.il/bs/00000183-6564-dce0-a3ff-f5ee76ea0000/dc/d1/6954e1b24d44997c5becb8f611bb/48541215.JPG?precrop=1280,554,x0,y184&height=831&width=1920",
+    "ResturantName": "SeaInPlate",
+    "ChefName": "Lazar"
+  },
+  {
+    "ID": 3,
+    "ResturanImage": "https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2020/01/78133130_2724833184205773_9167498876020588544_n-21.jpg?fit=1024%2C576&ssl=1",
+    "ResturantName": "Treat Your Sould",
+    "ChefName": "Itay"
+  },
+  {
+    "ID": 4,
+    "ResturanImage": "https://static.toiimg.com/thumb/94628852.cms?width=400&height=300&resizemode=4&imgsize=235676",
+    "ResturantName": "Japan In TLV",
+    "ChefName": "Kim Shin"
+  },
+  {
+    "ID": 5,
+    "ResturanImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tgi-fridays-potato-skins-1576689702.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*",
+    "ResturantName": "Chain Restayrants",
+    "ChefName": "Koby"
+  },
+  {
+    "ID": 6,
+    "ResturanImage": "https://media.smallbiztrends.com/2021/05/fast-food-restaurants.png",
+    "ResturantName": "Fast But Healthy",
+    "ChefName": "Ronen"
+  }
+]

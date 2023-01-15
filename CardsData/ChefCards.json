@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "DishImage": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gnocchi-1d16725.jpg?quality=90&webp=true&resize=300,272",
+    "DishName": "Chorizo & mozzarella"
+  },
+  {
+    "ID": 2,
+    "DishImage": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/butter-chicken-cf6f9e2.jpg?quality=90&webp=true&resize=300,272",
+    "DishName": "butter chicken"
+  },
+  {
+    "ID": 3,
+    "DishImage": "https://images.immediate.co.uk/production/volatile/sites/30/2022/02/vegetarian-lasagne-5ee6162.jpg?quality=90&webp=true&resize=300,272",
+    "DishName": "Vegetarian lasagne"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "ID": 1,
+    "ResturantImage": "https://cdn.ksamenus.com/wp-content/uploads/2022/06/%D9%85%D9%86%D9%8A%D9%88-%D8%A7%D9%84%D8%A8%D9%8A%D9%83-%D8%A7%D9%84%D8%A7%D8%AD%D8%B3%D8%A7%D8%A1.webp?strip=all&lossy=1&ssl=1",
+    "ResturantName": "AlBaik",
+    "CheifName": "AlBaik Ahmad",
+    "Rate": 3.5,
+    "Since": 1544048522000,
+    "working_Days": {
+      "Sunday": {
+        "Open": "12:23",
+        "Close": "00:30"
+      },
+      "Monday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Tuesday": {
+        "Open": "08:15",
+        "Close": "18:15"
+      },
+      "Wednesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Thursday": {
+        "Open": "08:15",
+        "Close": "18:15"
+      },
+      "Friday": {
+        "Open": "11:15",
+        "Close": "00:15"
+      },
+      "Suturday": {
+        "Open": "11:30",
+        "Close": "22:00"
+      }
+    }
+  },
+  {
+    "ID": 2,
+    "ResturantImage": "https://usercontent.one/wp/www.sweet-burger.se/wp-content/uploads/2022/06/shutterstock_2007182408-scaled.jpg",
+    "ResturantName": "Knafeh Nablus",
+    "CheifName": "Al Nabulsi",
+    "Rate": 4,
+    "Since": 1196893322000,
+    "working_Days": {
+      "Sunday": {
+        "Open": "12:23",
+        "Close": "00:30"
+      },
+      "Monday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Tuesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Wednesday": {
+        "Open": "08:15",
+        "Close": "22:15"
+      },
+      "Thursday": {
+        "Open": "08:15",
+        "Close": "21:15"
+      },
+      "Friday": {
+        "Open": "11:15",
+        "Close": "00:15"
+      },
+      "Suturday": {
+        "Open": "10:00",
+        "Close": "14:33"
+      }
+    }
+  },
+  {
+    "ID": 3,
+    "ResturantImage": "https://www.pizzainn.com/wp-content/uploads/2022/09/CFPC-equation.png",
+    "ResturantName": "Pizza INN",
+    "CheifName": "Pizza",
+    "Rate": 4.8,
+    "Since": 818202122000,
+    "working_Days": {
+      "Sunday": {
+        "Open": "12:23",
+        "Close": "12:30"
+      },
+      "Monday": {
+        "Open": "08:15",
+        "Close": "03:15"
+      },
+      "Tuesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Wednesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Thursday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Friday": {
+        "Open": "11:15",
+        "Close": "00:15"
+      },
+      "Suturday": {
+        "Open": "",
+        "Close": ""
+      }
+    }
+  },
+  {
+    "ID": 4,
+    "ResturantImage": "https://medias.hashulchan.co.il/www/uploads/2018/11/taizu-am-600x600.jpg",
+    "ResturantName": "Taoazo",
+    "CheifName": "Yuval Bin Narya",
+    "Rate": 5,
+    "Since": 1607363563,
+    "working_Days": {
+      "Sunday": {
+        "Open": "12:23",
+        "Close": "00:30"
+      },
+      "Monday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Tuesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Wednesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Thursday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Friday": {
+        "Open": "11:15",
+        "Close": "00:15"
+      },
+      "Suturday": {
+        "Open": "",
+        "Close": ""
+      }
+    }
+  },
+  {
+    "ID": "5",
+    "ResturantImage": "https://medias.timeout.co.il/www/uploads/2021/10/kashmiri-600x600-1659078955.jpg",
+    "ResturantName": "OCD TLV",
+    "CheifName": "Raz Rahav",
+    "Rate": 5,
+    "Since": 1670434311,
+    "working_Days": {
+      "Sunday": {
+        "Open": "12:23",
+        "Close": "00:30"
+      },
+      "Monday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Tuesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Wednesday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Thursday": {
+        "Open": "08:15",
+        "Close": "15:15"
+      },
+      "Friday": {
+        "Open": "11:15",
+        "Close": "00:15"
+      },
+      "Suturday": {
+        "Open": "10:30",
+        "Close": "20:00"
+      }
+    }
+  }
+]
